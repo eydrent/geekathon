@@ -8,7 +8,7 @@ Store Development
 - Geekathon Medellín
 
 # Site
-- Link URL - [Watch project deployed on Netlify](https://geekathon.netlify.app/)
+- Link URL - [Watch project deployed on GitHub Pages](https://eydrent.github.io/geekathon/)
 
 # Figma
 - Link URL - [Figma Project](https://www.figma.com/file/Nw92yjMeoPcB94xETqxe2o/Untitled?node-id=0%3A1/)
